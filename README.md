@@ -21,7 +21,5 @@ Write a function that accepts a collection of number values and returns a total 
     scoreThrows( [1, 2, 1, 4, 4, 2] ) => returns 60
 
 ## Additional Requirements
-- Create a Git Repository for this challenge
-  - commit often and have your commit messages be descriptive
 - Write tests for your function using the Mocha and Chai Libraries.
   - Provide test for all cases. Handle unexpected inputs, invalid arguments, etc.
