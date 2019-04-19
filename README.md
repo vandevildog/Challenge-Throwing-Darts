@@ -18,7 +18,7 @@ Write a function that accepts a collection of number values and returns a total 
 
     scoreThrows( [1, 5, 11] ) => returns 15
     scoreThrows( [15, 20, 30] ) => returns 0
-    scoreThrows( [1, 2, 1, 4, 4, 2] ) => returns 60
+    scoreThrows( [1, 2, 1, 4, 4, 2] ) => returns 160
 
 ## Additional Requirements
 - Write tests for your function using the Mocha and Chai Libraries.
